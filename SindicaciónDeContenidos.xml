@@ -28,5 +28,18 @@
             <pubDate>Fri, 25 Mar 2022 18:32:00 GMT</pubDate>
             <enclosure url="https://phantom-elmundo.unidadeditorial.es/a629bc1d50ea1a76006aa09712ec6aca/crop/0x24/3032x2045/resize/600/f/webp/assets/multimedia/imagenes/2022/03/25/16482298025686.jpg" type="image/jpg" length="300"/>
         </item>
+        <item>
+            <title>Mapa, Estadísticas y Seguimiento de la COVID 19</title>
+            <link>https://www.rtve.es/noticias/20220325/mapa-mundial-del-coronavirus/1998143.shtml</link>
+            <description>
+                Un año después del inicio de la pandemia, a finales de enero de 2021, el mundo alcanzó los
+                100 millones de contagios. Doce meses después se sumaron otros 300 millones, los 100 últimos 
+                en poco más de cuatro semanas. El país más con más contagios en términos absolutos sigue siendo 
+                Estados Unidos, seguido de India y de Brasil.
+            </description>
+            <pubDate>Fri, 25 Mar 2022 10:35:00 GMT</pubDate>
+            <enclosure url="https://img2.rtve.es/i/?w=1600&i=1615998979529.jpg" type="image/jpg" length="300"/>
+            <enclosure url="https://github.com/Bluur/SindicacionDeContenidos/blob/main/descarga.png?raw=true" type="image/jpg" length="300"/>
+        </item>
     </channel>
 </rss>
