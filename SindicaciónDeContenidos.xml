@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
+    <!-- 
+        PRÁCTICA...............: Práctica RSS
+
+        NOMBRE Y APELLIDOS.....: Miguel García del Real Ortiz
+
+        CURSO Y GRUPO..........: DAW-B
+
+        TÍTULO DE LA PRÁCTICA..: Sindicación de Contenidos
+
+        FECHA LÍMITE DE ENTREGA:  25 de marzo  a las 23.59 
+
+        He creado este documento utilizando mi cuenta de Github para alojar el archivo y las imágenes. No se porqué
+        pero me ha costado muchísimo hacer que funcione porque ninguno de los readers (ni los de windows ni los 
+        online en la web) si hay algún tipo de problema es por eso. El validador me lo da por bueno.
+    -->
     <channel>
         <title>Noticias COVID-19</title>
         <link>https://github.com/Bluur/SindicacionDeContenidos/blob/main/Sindicaci%C3%B3nDeContenidos.xml</link>
