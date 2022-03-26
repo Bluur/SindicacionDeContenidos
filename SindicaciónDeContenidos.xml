@@ -5,6 +5,8 @@
         <link>https://github.com/Bluur/SindicacionDeContenidos/blob/main/Sindicaci%C3%B3nDeContenidos.xml</link>
         <description>En esta feed vas a encontrar la mayor cantidad posible de información actualizada al instante sobre la COVID-19</description>
         <pubDate>Sat, 22 Mar 2022 10:32:00 GMT</pubDate>
+        <managingEditor>mgarcia178@ieszaidinvergeles.org (Miguel García del Real Ortiz)</managingEditor>
+        <copyright>CC 4.0 - BY-SA</copyright>
         <item>
             <title>Los Contagios por COVID se duplican tras las fallas</title>
             <link>https://www.elmundo.es/comunidad-valenciana/castellon/2022/03/26/623e2e18fdddff89398b45dd.html</link>
@@ -12,8 +14,7 @@
             <pubDate>Sat, 26 Mar 2022 10:40:00 GMT</pubDate>
             <enclosure url="https://phantom-elmundo.unidade
             ditorial.es/4709f42e1938f4430ea80d172c9cee0d/crop/0x244/3072x2341/
-            resize/600/f/webp/assets/multimedia/imagenes/2022/03/25/16482418635712.jpg" type="image/jpg" length="300"
-            />
+            resize/600/f/webp/assets/multimedia/imagenes/2022/03/25/16482418635712.jpg" type="image/jpg" length="300"/>
         </item>
         <item>
             <title>Ómicron silenciosa, detrás del nuevo repunte inadvertido de Covid</title>
@@ -21,6 +22,17 @@
             <description>Según la OMS, BA.2 aparece en un 86% de los casos analizados en laboratorio. Los expertos señalan la posibilidad de que se den nuevas reinfecciones</description>
             <pubDate>Sat, 26 Mar 2022 2:43:00 GMT</pubDate>
             <enclosure url="https://phantom-elmundo.unidadeditorial.es/dccb297d7087884ce4dc254132112630/crop/342x0/2855x1675/resize/600/f/webp/assets/multimedia/imagenes/2022/03/25/16482315793851.jpg" type="image/jpg" length="300"/>
+        </item>
+        <item>
+            <title>Salud asegura que el 60% de los hospitalizados con covid ingresaron por otras patologías</title>
+            <link>https://www.elmundo.es/andalucia/2022/03/25/623dfdfcfc6c83fb2c8b4572.html</link>
+            <description>
+                La tasa de incidencia acumulada del covid ha dejado de ser una referencia fiable para medir la evolución de la pandemia y, sobre todo, para comparar el estado de la situación 
+                por territorios, dado que la mayoría de contagios no se trasladan a las estadísticas oficiales. El único indicador fiable es, insisten las autoridades sanitarias, la presión 
+                hospitalaria. Y, sin embargo, el incremento en el número de enfermos hospitalizados registrado esta semana también hay que analizarlo en su contexto y sin sacar conclusiones precipitadas,
+                según advertía este viernes el consejero de Salud, Jesús Aguirre.
+            </description>
+            <pubDate>Fri, 25 Mar 2022 18:32 GMT</pubDate>>
         </item>
     </channel>
 </rss>
